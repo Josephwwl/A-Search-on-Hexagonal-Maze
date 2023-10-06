@@ -17,11 +17,11 @@ You may choose any of the below methods to setup the project environment.
 
 1. Simply `git clone` this repository.
 
-    git clone https://github.com/EugeneSiew/Artificial-Intelligence
+    git clone https://github.com/Josephwwl/A-Star-Search-on-Hexagonal-Maze
 
-2. Copy the code in [`AI_Assignment.py`](https://github.com/EugeneSiew/Artificial-Intelligence/blob/main/AI%20Assignment.py) into a `.py` file onto your system.
+2. Copy the code in [`AI_Assignment.py`](https://github.com/Josephwwl/A-Star-Search-on-Hexagonal-Maze/blob/main/AI_assignment.py) into a `.py` file onto your system.
 
-3. Copy the code in [`AI_Assignment.py`](https://github.com/EugeneSiew/Artificial-Intelligence/blob/main/AI%20Assignment.py) into an [Online Python IDE](https://www.online-python.com/). 
+3. Copy the code in [`AI_Assignment.py`](https://github.com/Josephwwl/A-Star-Search-on-Hexagonal-Maze/blob/main/AI_assignment.py) into an [Online Python IDE](https://www.online-python.com/). 
 
 No dependencies are needed to be installed as the program only uses standard Python libraries.
 
